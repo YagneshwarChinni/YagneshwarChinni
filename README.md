@@ -5,7 +5,8 @@ Grphic Designer
 
 Passionate developer...
 
-💼 Experience
+💼 Experience:
+
 Google Student Ambassdor at Google Gemini (Aug 2026 - Dec 2026)
 
 
