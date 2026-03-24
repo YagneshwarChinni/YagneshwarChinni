@@ -1,5 +1,6 @@
 # Hi, I'm CHINNI KNS YAGNESHWAR 👋
 Front end Developer
+Grphic Designer
 
 Passionate developer...
 
