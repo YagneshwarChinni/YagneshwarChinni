@@ -1,4 +1,4 @@
-# Hi, I'm CHINNI KNS YAGNESHWAR 👋
+# Hi, I'm CHINNI KNS YAGNESHWAR 
 Front end Developer
 
 Grphic Designer
