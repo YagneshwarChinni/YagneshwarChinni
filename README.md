@@ -19,17 +19,17 @@
 
 ---
 
-### 🚀 About Me
-I am a Computer Science Engineer specializing in **DevOps Infrastructure, Cloud Architecture, and Automation Engineering**. My focus lies in designing resilient system architectures, optimizing CI/CD workflows, and scaling cloud infrastructure to enhance operational efficiency and system reliability.
+### 🚀 System Architecture & DevOps Engineering
+I am a Computer Science Engineer specializing in **DevOps Infrastructure, Cloud Architecture, and Automation Engineering**. My focus lies in designing resilient system architectures, optimizing CI/CD workflows, and scaling cloud-native infrastructure to maximize operational efficiency and system reliability.
 
-* 🎯 **Current Focus:** Cloud-native ecosystems, Infrastructure as Code (IaC), and container orchestration.
+* 🎯 **Current Focus:** Cloud-native ecosystems, Infrastructure as Code (IaC), and secure runtime environments.
 * ⚡ **Core Philosophy:** *If you have to do it more than twice, automate it.*
 
 ---
 
 ## 🛠️ Technical Ecosystem
 
-### ☁️ DevOps & Infrastructure Automation
+### ☁️ Cloud Infrastructure & Continuous Delivery
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP" />
@@ -41,7 +41,7 @@ I am a Computer Science Engineer specializing in **DevOps Infrastructure, Cloud 
   <img src="https://img.shields.io/badge/Linux%20Shell-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-### 💻 Backend Engineering & Core Systems
+### 💻 Distributed Systems & Backend Engineering
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
@@ -49,16 +49,12 @@ I am a Computer Science Engineer specializing in **DevOps Infrastructure, Cloud 
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
 </p>
 
-### 🎨 Frontend Architecture
+### 🎨 Web Architectures
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
-</p>
-
-### 🗄️ Data Engineering & Databases
-<p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -66,37 +62,52 @@ I am a Computer Science Engineer specializing in **DevOps Infrastructure, Cloud 
 
 ---
 
-## 💼 Professional Experience
+## 💼 Professional Industry Experience
 
 #### **Google Student Ambassador** | *Google Gemini*
-> **Leadership & Technical Evangelism**
-* Led and scaled engineering community initiatives focused on integrating advanced LLMs and AI architectural frameworks.
+> **Technical Leadership & Developer Evangelism**
+* Led large-scale developer community frameworks to accelerate public adoption and integration of next-generation LLM APIs.
 
 #### **Frontend Developer Intern** | *Zorvyn*
 > **Web Performance Engineering**
-* Engineered high-performance, modular frontend system components, improving UI responsiveness and system scalability across cross-functional teams.
+* Shipped modular, client-side enterprise components, optimized rendering performance, and enhanced application responsiveness within Agile workflows.
 
 #### **Data Analyst Intern** | *Bluestock Fintech*
-> **Data Analytics & Insights**
-* Structured complex datasets and executed data analytics frameworks to drive high-impact technical validation and strategic metrics.
+> **Data Infrastructure & Analytics**
+* Formulated data transformation pipelines and analytics metrics to support strategic technical validation of business intelligence assets.
 
 ---
 
-## 🏆 Key Milestones
+## 🛠️ Feature Engineering & Projects
 
-* 🎓 **AWS Certified Cloud Practitioner (CLF-C02)** – Validated foundational competency across AWS global infrastructure, core architectural principles, and cloud-native security postures.
-* 🥇 **GitHub Copilot Global Certification** – Completed advanced AI-driven systems integration, ranking within the **first 300 engineers globally** to achieve this credential.
+| Project Domain | Core Technologies | Focus Metric |
+| :--- | :--- | :--- |
+| **[Enterprise Management System (EMS)](../EMS)** | TypeScript, Next.js, Node.js | Modular State & Architecture |
+| **[Monastery Experience Platform](../Monastery-Experience-Platform-1)** | TypeScript, Web Frameworks | Frontend Experience Optimization |
+| **[Secure Data Processing System (SDP)](../SDPProject)** | Java, Spring Boot, Core Security | Microservices Framework |
 
 ---
 
-## 📈 Commit & Activity Velocity
+## 🏆 Verified Credentials & Certifications
+
+| Issuing Authority | Credential Title | Validation Date |
+| :--- | :--- | :--- |
+| **GitHub** | GitHub Copilot Global Certification *(Top 300 Engineers Globally)* | Nov 2025 |
+| **Amazon Web Services** | AWS Certified Cloud Practitioner (CLF-C02) | 2025 |
+| **Oracle** | Oracle Certified Foundations Associate | Apr 2026 |
+| **Automation Anywhere** | Essentials Automation Certification | Apr 2025 |
+| **Wipro** | Wipro Talent Next Certification | Oct 2025 |
+| **Salesforce** | Salesforce Certified AI Associate | Oct 2024 |
+
+---
+
+## 📈 Engineering Velocity & Analytics
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YagneshwarChinni&theme=dark&hide_border=true" alt="GitHub Streak" width="85%" />
 </p>
 
 ---
-
 <p align="center">
-  Focused on building high-availability systems. Let's build something scalable.
+  Focused on architecting secure, reliable, and highly scalable cloud-native ecosystems.
 </p>
