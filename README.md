@@ -68,11 +68,16 @@ I am a Computer Science Engineer specializing in **DevOps Infrastructure, Cloud 
 
 ---
 
-## 💼 Professional Industry Experience
+## 🏆 Verified Credentials & Certifications
 
-#### **Google Student Ambassador** | *Google Gemini*
-> **Technical Leadership & Developer Evangelism**
-* Led large-scale developer community frameworks to accelerate public adoption and integration of next-generation LLM APIs.
+| Issuing Authority | Credential Title | Validation Date |
+| :--- | :--- | :--- |
+| **GitHub** | GitHub Copilot Global Certification *(Top 300 Engineers Globally)* | Nov 2025 |
+| **Oracle** | Oracle Certified Foundations Associate | Apr 2026 |
+| **Amazon Web Services** | AWS Certified Cloud Practitioner (CLF-C02) | 2025 |
+| **Automation Anywhere** | Essentials Automation Certification | Apr 2025 |
+| **Wipro** | Wipro Talent Next Certification | Oct 2025 |
+| **Salesforce** | Salesforce Certified AI Associate | Oct 2024 |
 
 ---
 
@@ -86,16 +91,11 @@ I am a Computer Science Engineer specializing in **DevOps Infrastructure, Cloud 
 
 ---
 
-## 🏆 Verified Credentials & Certifications
+## 💼 Professional Industry Experience
 
-| Issuing Authority | Credential Title | Validation Date |
-| :--- | :--- | :--- |
-| **GitHub** | GitHub Copilot Global Certification *(Top 300 Engineers Globally)* | Nov 2025 |
-| **Amazon Web Services** | AWS Certified Cloud Practitioner (CLF-C02) | 2025 |
-| **Oracle** | Oracle Certified Foundations Associate | Apr 2026 |
-| **Automation Anywhere** | Essentials Automation Certification | Apr 2025 |
-| **Wipro** | Wipro Talent Next Certification | Oct 2025 |
-| **Salesforce** | Salesforce Certified AI Associate | Oct 2024 |
+#### **Google Student Ambassador** | *Google Gemini*
+> **Technical Leadership & Developer Evangelism**
+* Led large-scale developer community frameworks to accelerate public adoption and integration of next-generation LLM APIs.
 
 ---
 
