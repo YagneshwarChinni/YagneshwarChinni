@@ -1,35 +1,111 @@
-# Hi, I'm CHINNI KNS YAGNESHWAR 
-Front end Developer
+# 👋 Hi, I'm Yagneshwar Chinni (CNS Yagneshwar)
 
-Grphic Designer
-
-Passionate developer...
-
-💼 Experience:
-
-Google Student Ambassdor at Google Gemini (Aug 2026 - Dec 2026)
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yagneshwar_chinni) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yagneshwarchinni) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yagneshwarchinni@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=flat&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=flat&logo=sketchup&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=flat&logo=Adobe%20Fonts&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat&logo=bitbucket&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=YagneshwarChinni&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=YagneshwarChinni&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YagneshwarChinni&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=YagneshwarChinni&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=YagneshwarChinni&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <p>
+    <strong>🎓 Undergraduate Student @ K L Deemed to be University</strong><br/>
+    <strong>🚀 Aspiring DevOps Engineer | Specializing in DevOps & Cloud Infrastructure</strong>
+  </p>
+  <a href="https://yagneshwarchinni.tech/">💻 Portfolio</a> •
+  <a href="mailto:yagneshwarchinni@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/yagneshwarchinni/">🔗 LinkedIn</a> •
+  <a href="https://twitter.com/NaniYagneshwar">🐦 Twitter/X</a>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=YagneshwarChinni&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎯 About Me
+
+I'm an aspiring **DevOps Engineer** currently pursuing my undergraduate degree in **Computer Science**. I specialize in **DevOps practices, cloud infrastructure, and automation**, with a passion for building scalable systems and streamlining development workflows.
+
+### 💼 Experience Highlights
+- **Google Student Ambassador** at Google Gemini (Aug 2026 - Dec 2026)
+- Active contributor to DevOps and cloud-native projects
+
+---
+
+## 🛠️ Tech Stack
+
+### **Core Programming & Languages**
+<div align="left">
+  <img src="https://img.shields.io/badge/C-25%2300599C-flat?logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/Java-25%23ED8B00-flat?logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3-6730A0-flat?logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-25%23323330-flat?logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-25%23007ACC-flat?logo=typescript&logoColor=white" alt="TypeScript"/>
+</div>
+
+### **DevOps & Cloud Tools**
+<div align="left">
+  <img src="https://img.shields.io/badge/AWS-25%23FF9900-flat?logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Google-Cloud-25%234285F4-flat?logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/Docker-25%230DB7ED-flat?logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-25%23326CE5-flat?logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/GitHub-Actions-25%232671E5-flat?logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Git-25%23F05033-flat?logo=git&logoColor=white" alt="Git"/>
+</div>
+
+### **Web Development**
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-25%23E34F26-flat?logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/React-25%2320232a-flat?logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-flat?logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Node.js-6DA55F-flat?logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031-flat?logo=angular&logoColor=white" alt="Angular"/>
+</div>
+
+### **Databases**
+<div align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1-flat?logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-4E9A42-flat?logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192-flat?logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</div>
+
+### **DevOps Automation & CI/CD**
+<div align="left">
+  <img src="https://img.shields.io/badge/PowerShell-25%235391FE-flat?logo=powershell&logoColor=white" alt="PowerShell"/>
+  <img src="https://img.shields.io/badge/Ansible-FFCC00-flat?logo=ansible&logoColor=black" alt="Ansible"/>
+  <img src="https://img.shields.io/badge/Jenkins-25%23D24939-flat?logo=jenkins&logoColor=white" alt="Jenkins"/>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YagneshwarChinni&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagneshwarChinni&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YagneshwarChinni&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Trophies"/>
+</div>
+
+---
+
+## 🔗 Let's Connect
+
+<div align="center">
+  <a href="https://instagram.com/yagneshwar_chinni"><img src="https://img.shields.io/badge/Instagram-E4405F-flat?logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.linkedin.com/in/yagneshwarchinni/"><img src="https://img.shields.io/badge/LinkedIn-0077B5-flat?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:yagneshwarchinni@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836-flat?logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://twitter.com/NaniYagneshwar"><img src="https://img.shields.io/badge/X-000000-flat?logo=x&logoColor=white" alt="X/Twitter"/></a>
+</div>
+
+---
+
+## 📈 Visit Count
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?username=YagneshwarChinni&label=Profile%20Views&color=06b6d4&indent=7" alt="Visit Count"/>
+</div>
+
+---
+
+<div align="center">
+  <p><em>💻 Building the future with DevOps & Cloud Technology</em></p>
+  <p>✨ <strong>Let's automate, scale, and innovate together!</strong> ✨</p>
+</div>
