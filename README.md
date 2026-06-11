@@ -1,5 +1,16 @@
 # 👋 Hi, I'm Yagneshwar Chinni
 
+
+
+---
+
+### 🚀 System Architecture & DevOps Engineering
+I am a Computer Science Engineer specializing in **DevOps Infrastructure, Cloud Architecture, and Automation Engineering**. My focus lies in designing resilient system architectures, optimizing CI/CD workflows, and scaling cloud-native infrastructure to maximize operational efficiency and system reliability.
+
+* 🎯 **Current Focus:** Cloud-native ecosystems, Infrastructure as Code (IaC), and secure runtime environments.
+* ⚡ **Core Philosophy:** *If you have to do it more than twice, automate it.*
+
+---
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YagneshwarChinni&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Yagneshwar's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagneshwarChinni&layout=compact&theme=dark&hide_border=true" alt="Top Langs" width="48%" />
@@ -16,14 +27,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
----
-
-### 🚀 System Architecture & DevOps Engineering
-I am a Computer Science Engineer specializing in **DevOps Infrastructure, Cloud Architecture, and Automation Engineering**. My focus lies in designing resilient system architectures, optimizing CI/CD workflows, and scaling cloud-native infrastructure to maximize operational efficiency and system reliability.
-
-* 🎯 **Current Focus:** Cloud-native ecosystems, Infrastructure as Code (IaC), and secure runtime environments.
-* ⚡ **Core Philosophy:** *If you have to do it more than twice, automate it.*
 
 ---
 
