@@ -49,7 +49,7 @@ I am a Computer Science Engineer specializing in **DevOps Infrastructure, Cloud 
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
 </p>
 
-### 🎨 Web Architectures
+### 🎨 Web Architectures & Databases
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
@@ -60,6 +60,12 @@ I am a Computer Science Engineer specializing in **DevOps Infrastructure, Cloud 
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
+### 🖌️ Creative Engineering & UI/UX Design
+<p align="left">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
+</p>
+
 ---
 
 ## 💼 Professional Industry Experience
@@ -67,14 +73,6 @@ I am a Computer Science Engineer specializing in **DevOps Infrastructure, Cloud 
 #### **Google Student Ambassador** | *Google Gemini*
 > **Technical Leadership & Developer Evangelism**
 * Led large-scale developer community frameworks to accelerate public adoption and integration of next-generation LLM APIs.
-
-#### **Frontend Developer Intern** | *Zorvyn*
-> **Web Performance Engineering**
-* Shipped modular, client-side enterprise components, optimized rendering performance, and enhanced application responsiveness within Agile workflows.
-
-#### **Data Analyst Intern** | *Bluestock Fintech*
-> **Data Infrastructure & Analytics**
-* Formulated data transformation pipelines and analytics metrics to support strategic technical validation of business intelligence assets.
 
 ---
 
