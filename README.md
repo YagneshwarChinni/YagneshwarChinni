@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yagneshwar Chinni (CNS Yagneshwar)
+# 👋 Hi, I'm Yagneshwar Chinni (CHINNI KNS Yagneshwar)
 
 <div align="center">
   <p>
