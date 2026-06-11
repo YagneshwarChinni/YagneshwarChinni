@@ -87,12 +87,12 @@ I am a Computer Science Engineer specializing in **DevOps Infrastructure, Cloud 
 
 ## 🛠️ Feature Engineering & Projects
 
-| Project Domain | Core Technologies | Focus Metric |
-| :--- | :--- | :--- |
-| **[Enterprise Management System (EMS)](../EMS)** | TypeScript, Next.js, Node.js | Modular State & Architecture |
-| **[Monastery Experience Platform](../Monastery-Experience-Platform-1)** | TypeScript, Web Frameworks | Frontend Experience Optimization |
-| **[Secure Data Processing System (SDP)](../SDPProject)** | Java, Spring Boot, Core Security | Microservices Framework |
-
+| Project Domain | Core Technologies | Focus Metric | Repository | Deployment |
+| :--- | :--- | :--- | :--- | :--- |
+| **Enterprise Management System (EMS)** | TypeScript, Next.js, Node.js | Modular State & Architecture | [📁 Repository](https://github.com/YagneshwarChinni/EMS) | [🚀 Live Demo](https://ems-platform.vercel.app) |
+| **Monastery Experience Platform** | TypeScript, Web Frameworks | Frontend Experience Optimization | [📁 Repository](https://github.com/YagneshwarChinni/Monastery-Experience-Platform-1) | [🚀 Live Demo](https://monastery-experience.netlify.app) |
+| **Secure Data Processing System (SDP)** | Java, Spring Boot, Core Security | Microservices Framework | [📁 Repository](https://github.com/YagneshwarChinni/SDPProject) | [🚀 API Endpoint](https://sdp-backend.vercel.app) |
+| **Parvathi Siva Sai Brokers Platform** | JavaScript, Web Frameworks | Business Operations & Logistics | [📁 Repository](https://github.com/YagneshwarChinni/Parvathi-Siva-Sai-Brokers) | [🚀 Live Platform](https://yagneshwarchinni.tech/) |
 ---
 
 ## 💼 Professional Industry Experience
