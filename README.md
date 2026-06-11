@@ -65,6 +65,7 @@ I am a Computer Science Engineer specializing in **DevOps Infrastructure, Cloud 
 
 ### 🖌️ Creative Engineering & UI/UX Design
 <p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
 </p>
