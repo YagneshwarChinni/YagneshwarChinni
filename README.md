@@ -11,10 +11,10 @@ I am a Computer Science Engineer specializing in **DevOps Infrastructure, Cloud 
 * ⚡ **Core Philosophy:** *If you have to do it more than twice, automate it.*
 
 ---
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YagneshwarChinni&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Yagneshwar's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagneshwarChinni&layout=compact&theme=dark&hide_border=true" alt="Top Langs" width="48%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YagneshwarChinni&show_icons=true&theme=dark" alt="Yagneshwar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagneshwarChinni&layout=compact&theme=dark" alt="Top Langs" />
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/yagneshwarchinni">
