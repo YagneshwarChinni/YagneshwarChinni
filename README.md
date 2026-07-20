@@ -37,8 +37,11 @@ I am a Computer Science Engineer specializing in **DevOps Infrastructure, Cloud 
 
 
 Cloud & DevOps     :: AWS, Google Cloud, Docker, Kubernetes, GitHub Actions, Jenkins, Ansible, Linux Shell
+
 Backend & Systems  :: Java, Spring Boot, Python, Node.js, C, C++
+
 Frontend & UI/UX   :: TypeScript, Next.js, React, Angular, Figma, Photoshop
+
 Databases & Data   :: PostgreSQL, MySQL, MongoDB
 
 ---
