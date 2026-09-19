@@ -1,56 +1,55 @@
-# Yagneshwar Chinni
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yagneshwarchinni) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=vercel)](https://yagneshwarchinni.tech/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:yagneshwarchinni@gmail.com)
-
-**Software Engineer | Distributed Systems & DevOps Infrastructure**
-
-Architecting resilient microservices, optimizing CI/CD pipelines, and engineering cloud-native infrastructure for high-scale, fault-tolerant platforms. 
-
----
-
-### 🚀 Core Competencies & System Architecture
-
-I specialize in **DevOps Infrastructure, Cloud Architecture, and Automation Engineering**. My focus lies in designing resilient system architectures, optimizing CI/CD workflows, and scaling cloud-native ecosystems to maximize operational efficiency and system reliability.
-
-- 🎯 **Current Focus:** Cloud-native ecosystems, Infrastructure as Code (IaC), and secure runtime environments.
-- ⚡ **Core Philosophy:** *If you have to do it more than twice, automate it.*
+<div align="center">
+  <h1>Hi, I'm Yagneshwar Chinni</h1>
+  <p><b>Software Engineer | Full-Stack Development & Data Analytics</b></p>
+  
+  <p>
+    <a href="https://linkedin.com/in/yagneshwarchinni"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+    <a href="https://yagneshwarchinni.tech/"><img src="https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=vercel" alt="Portfolio"></a>
+    <a href="mailto:yagneshwarchinni@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"></a>
+  </p>
+</div>
 
 ---
 
-### 🛠️ Technical Ecosystem
+### 📊 Developer Analytics & Profile Metrics
 
-- **Cloud & DevOps:** AWS, Google Cloud Platform (GCP), Docker, Kubernetes, GitHub Actions, Jenkins, Ansible, Linux Shell
-- **Backend & Systems:** Java, Spring Boot, Python, Node.js, C, C++
-- **Frontend Ecosystem:** TypeScript, Next.js, React, Angular
-- **Databases:** PostgreSQL, MySQL, MongoDB
+*The metrics below update automatically based on repository activity.*
 
----
-
-### 📂 Feature Engineering & Distributed Systems Projects
-
-| Project Domain | Core Stack | Architecture Metric |
-| :--- | :--- | :--- |
-| **Enterprise Management System (EMS)** | TypeScript, Next.js, Node.js | Modular State & Microservices Architecture |
-| **Monastery Experience Platform** | TypeScript, React, Spring Boot | Event-Driven Frontend Experience Optimization |
-| **Secure Data Processing System (SDP)** | Java, Spring Boot, Security | High-Throughput Microservices Security Framework |
-| **Parvathi Siva Sai Brokers Platform** | JavaScript, Node.js, Express | Logistics Operations Automation Platform |
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YagneshwarChinni&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagneshwarChinni&layout=compact&theme=transparent&hide_border=true" width="48%" alt="Top Languages" />
+</div>
 
 ---
+
+### 🚀 Executive Summary
+
+I specialize in full-stack application development, software performance engineering, and data analytics. With professional experience designing modular client-side components and formulating complex data transformation pipelines, my focus lies in architecting scalable, data-driven systems and optimizing backend infrastructure.
 
 ### 💼 Professional Industry Experience
 
-**Technical Leadership & Developer Evangelism | Google Student Ambassador (Google Gemini)**
-- Spearheaded developer community frameworks to accelerate the adoption and integration of LLM APIs and cloud-native workflows across developer networks.
+- **Technical Leadership @ Google Student Ambassador** 
+  *Spearheaded developer community frameworks to accelerate the adoption and integration of LLM APIs and cloud-native workflows.*
 
----
+### 🛠️ Technical Arsenal
+
+- **Core Languages:** Java, C, C++, Python, SQL, TypeScript, JavaScript
+- **Backend & Cloud:** Spring Boot, Node.js, Express, Google Cloud Platform (GCP), Hibernate, REST APIs
+- **Frontend Ecosystem:** React, Vite, HTML, CSS
+- **DevOps & Architecture:** Git, GitHub, MySQL, Infrastructure Design
+
+### 📂 Feature Engineering & Systems Architecture
+
+| System / Project | Architecture & Business Impact | Core Stack |
+| :--- | :--- | :--- |
+| **Hospital Management System** | Engineered scalable cloud infrastructure and orchestrated the complete deployment pipeline onto Google Cloud Platform. | Java, GCP, MySQL |
+| **Monastery Experience Platform** | Architected the backend services framework and deployed the highly-available application architecture on Vercel. | Spring Boot, React, Vercel |
+| **Event Management System** | Configured robust frontend environments and designed normalized user authentication schemas in MySQL Workbench. | React, Vite, MySQL |
+| **SmartVyapar App** | Developed comprehensive product architecture scripting and multi-scene visual storyboards for mobile billing and accounting platforms. | Application Architecture |
 
 ### 🏆 Verified Credentials & Certifications
 
-- **GitHub:** GitHub Copilot Global Certification *(Top 300 Engineers Globally)*
-- **Oracle:** Oracle Certified Foundations Associate
-- **Amazon Web Services (AWS):** AWS Certified Cloud Practitioner (CLF-C02)
-- **Automation Anywhere:** Essentials Automation Certification
-- **Wipro:** Wipro Talent Next Certification
-- **Salesforce:** Salesforce Certified AI Associate
+- **Oracle:** Oracle Certified Foundations Associate (April 2026)
+- **Salesforce:** Salesforce Certified AI Associate (Oct 2024)
+- **Automation Anywhere:** Essentials Automation Certification (April 2025)
+- **Wipro:** Wipro Talent Next Certification (Oct 2025)
