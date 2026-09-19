@@ -15,10 +15,9 @@
 
 *The metrics below update automatically based on repository activity.*
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YagneshwarChinni&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagneshwarChinni&layout=compact&theme=transparent&hide_border=true" width="48%" alt="Top Languages" />
-</div>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YagneshwarChinni&show_icons=true&theme=transparent&hide_border=true)](https://github.com/YagneshwarChinni)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YagneshwarChinni&layout=compact&theme=transparent&hide_border=true)](https://github.com/YagneshwarChinni)
 
 ---
 
